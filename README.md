@@ -1,2 +1,2 @@
-# bdrelacionales
-Base de datos relacionales
+# Axel Armando Beltrán López
+4AVP
